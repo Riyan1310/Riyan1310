@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Riyan Hidayat**.\
-Saya seorang **IT Support** di [Jedi Global Teknolgi](https:/www.jedi.id/).
+Saya seorang **IT Support** di [Jedi Global Teknolgi](https://www.jedi.id/).
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riyan-hidayat/)ku ya.
  
 <p align="left">
