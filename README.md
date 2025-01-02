@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Riyan Hidayat**.\
-Saya seorang **Network Security** di [Aplikas Service Pesona, PT](https://www.aplikas.com/).
+Saya seorang **Network Security** di [Aplikas Servis Pesona, PT](https://www.aplikas.com/).
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riyan-hidayat/)ku ya.
  
 <p align="left">
